@@ -34,7 +34,7 @@ public abstract class VerboseActivity extends Activity {
       mCreate = savedInstanceState.getInt(CREATE_KEY);
     }
 
-    Log.i(TAG, "Entered the onCreate method");
+    Log.i(TAG, "Entered the onCreate() method");
     mCreate += 1;
     displayCounts();
   }
@@ -43,7 +43,7 @@ public abstract class VerboseActivity extends Activity {
   public void onStart() {
     super.onStart();
 
-    Log.i(TAG, "Entered the onStart method");
+    Log.i(TAG, "Entered the onStart() method");
     mStart += 1;
     displayCounts();
   }
@@ -52,7 +52,7 @@ public abstract class VerboseActivity extends Activity {
   public void onResume() {
     super.onResume();
 
-    Log.i(TAG, "Entered the onResume method");
+    Log.i(TAG, "Entered the onResume() method");
     mResume += 1;
     displayCounts();
   }
@@ -61,21 +61,21 @@ public abstract class VerboseActivity extends Activity {
   public void onPause() {
     super.onPause();
 
-    Log.i(TAG, "Entered the onPause method");
+    Log.i(TAG, "Entered the onPause() method");
   }
 
   @Override
   public void onStop() {
     super.onStop();
 
-    Log.i(TAG, "Entered the onStop method");
+    Log.i(TAG, "Entered the onStop() method");
   }
 
   @Override
   public void onRestart() {
     super.onRestart();
 
-    Log.i(TAG, "Entered the onRestart method");
+    Log.i(TAG, "Entered the onRestart() method");
     mRestart += 1;
     displayCounts();
   }
@@ -84,7 +84,7 @@ public abstract class VerboseActivity extends Activity {
   public void onDestroy() {
     super.onDestroy();
 
-    Log.i(TAG, "Entered the onRestart method");
+    Log.i(TAG, "Entered the onRestart()method");
   }
 
   @Override
