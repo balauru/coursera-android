@@ -1,0 +1,28 @@
+01-30 10:09:38.990    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onCreate() method
+01-30 10:09:39.000    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStart() method
+01-30 10:09:39.020    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onResume() method
+01-30 10:09:45.000    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onPause() method
+01-30 10:09:45.219    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onCreate() method
+01-30 10:09:45.219    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStart() method
+01-30 10:09:45.219    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onResume() method
+01-30 10:09:46.040    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStop() method
+01-30 10:09:50.399    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onPause() method
+01-30 10:09:50.439    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onRestart() method
+01-30 10:09:50.449    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStart() method
+01-30 10:09:50.449    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onResume() method
+01-30 10:09:50.990    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStop() method
+01-30 10:09:50.990    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onDestroy()method
+01-30 10:09:55.369    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onPause() method
+01-30 10:09:55.590    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onCreate() method
+01-30 10:09:55.590    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStart() method
+01-30 10:09:55.590    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onResume() method
+01-30 10:09:56.281    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStop() method
+01-30 10:10:00.059    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onPause() method
+01-30 10:10:00.079    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onRestart() method
+01-30 10:10:00.089    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStart() method
+01-30 10:10:00.089    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onResume() method
+01-30 10:10:00.610    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onPause() method
+01-30 10:10:00.870    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStop() method
+01-30 10:10:00.870    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onDestroy()method
+01-30 10:10:01.010    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onStop() method
+01-30 10:10:01.010    1411-1411/course.labs.activitylab I/Lab-ActivityOne﹕ Entered the onDestroy()method

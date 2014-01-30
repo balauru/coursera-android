@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab01/TheActivityClass/SourceFiles/Skeletons/ActivityLab/app/src/instrumentTest/res" />
+        <source path="/home/calin/Projects/coursera-android/lab01/TheActivityClass/SourceFiles/Skeletons/ActivityLab/app/build/res/rs/test/debug" />
+    </dataSet>
+
+</merger>
