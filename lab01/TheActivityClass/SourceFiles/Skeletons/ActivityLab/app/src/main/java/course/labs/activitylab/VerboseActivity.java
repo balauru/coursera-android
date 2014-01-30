@@ -30,7 +30,7 @@ public abstract class VerboseActivity extends Activity {
     if (savedInstanceState != null) {
       mStart = savedInstanceState.getInt(START_KEY);
       mRestart = savedInstanceState.getInt(RESTART_KEY);
-      mRestart = savedInstanceState.getInt(RESUME_KEY);
+      mResume = savedInstanceState.getInt(RESUME_KEY);
       mCreate = savedInstanceState.getInt(CREATE_KEY);
     }
 
@@ -92,7 +92,7 @@ public abstract class VerboseActivity extends Activity {
     savedInstanceState.putInt(START_KEY, mStart);
     savedInstanceState.putInt(RESTART_KEY, mRestart);
     savedInstanceState.putInt(RESUME_KEY, mResume);
-    savedInstanceState.putInt(RESTART_KEY, mRestart);
+    savedInstanceState.putInt(CREATE_KEY, mCreate);
   }
 
   protected abstract int getLayout();
