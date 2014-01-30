@@ -84,7 +84,7 @@ public abstract class VerboseActivity extends Activity {
   public void onDestroy() {
     super.onDestroy();
 
-    Log.i(TAG, "Entered the onRestart()method");
+    Log.i(TAG, "Entered the onDestroy()method");
   }
 
   @Override
