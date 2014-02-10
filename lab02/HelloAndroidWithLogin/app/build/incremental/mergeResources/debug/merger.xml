@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="enter_username_hint" >Enter username
+                </string>
+                <string name="app_name" >Hello Android with Login
+                </string>
+                <string name="enter_password_hint" >Enter Password
+                </string>
+                <string name="password_string" >Password
+                </string>
+                <string name="username_string" >UserName
+                </string>
+                <string name="hello" >Hello Android!
+                </string>
+                <string name="login_string" >Login
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="loginscreen"
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/layout/loginscreen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="helloandroid"
+                path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/res/layout/helloandroid.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/debug/res" />
+    </dataSet>
+
+</merger>

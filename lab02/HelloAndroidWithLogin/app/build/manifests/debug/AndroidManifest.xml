@@ -1,0 +1,17 @@
+<!-- From: file:/home/calin/Projects/coursera-android/lab02/HelloAndroidWithLogin/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="course.examples.helloWorldWithLogin">
+
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="17"/>
+
+    <application android:allowBackup="false" android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name="course.examples.helloWorldWithLogin.LoginScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="course.examples.helloWorldWithLogin.HelloAndroid">
+        </activity>
+    </application>
+
+</manifest>

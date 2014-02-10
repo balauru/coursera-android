@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/src/debug/res" />
+    </dataSet>
+
+</merger>

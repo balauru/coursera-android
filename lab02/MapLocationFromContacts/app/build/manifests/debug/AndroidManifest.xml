@@ -1,0 +1,17 @@
+<!-- From: file:/home/calin/Projects/coursera-android/lab02/MapLocationFromContacts/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="course.examples.MapLocationFromContacts">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS">
+    </uses-permission>
+
+    <uses-sdk android:minSdkVersion="5" android:targetSdkVersion="17"/>
+
+    <application android:allowBackup="false" android:icon="@drawable/ic_launcher">
+        <activity android:label="Map Location From Contacts" android:name="course.examples.MapLocationFromContacts.MapLocationFromContactsActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
