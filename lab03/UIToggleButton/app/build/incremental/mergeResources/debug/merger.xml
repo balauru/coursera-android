@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >UIToggleButton
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UIToggleButton/app/src/debug/res" />
+    </dataSet>
+
+</merger>

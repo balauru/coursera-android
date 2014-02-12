@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >UI Gallery
+                </string>
+            </file>
+            <file
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="GalleryActivity" >
+                    <attr name="android:galleryItemBackground" />
+                </declare-styleable>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="sample_7"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_7.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_0"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_0.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_5"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_5.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_3"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_3.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_2"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_2.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_6"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_6.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_1"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_1.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_4"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-hdpi/sample_4.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UIGallery/app/src/debug/res" />
+    </dataSet>
+
+</merger>

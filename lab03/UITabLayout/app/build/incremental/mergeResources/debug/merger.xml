@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >UI TabLayout
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="image12"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image12.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image6"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image6.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_7"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_7.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image10"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image10.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_0"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_0.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image9"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image9.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_5"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_5.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_3"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_3.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image7"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image7.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_2"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_2.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image4"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image4.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_6"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_6.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_1"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_1.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sample_4"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/sample_4.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image5"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image5.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image3"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image3.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image11"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image11.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image1"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image1.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image2"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image2.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="image8"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-hdpi/image8.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="grid_fragment"
+                path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/main/res/layout/grid_fragment.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab03/UITabLayout/app/src/debug/res" />
+    </dataSet>
+
+</merger>
