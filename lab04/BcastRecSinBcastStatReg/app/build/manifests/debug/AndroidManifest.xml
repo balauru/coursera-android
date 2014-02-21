@@ -1,5 +1,4 @@
 <!-- From: file:/home/calin/Projects/coursera-android/lab04/BcastRecSinBcastStatReg/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="course.examples.BroadcastReceiver.singleBroadcastStaticRegistration">
-
     <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="18"/>
 
     <uses-permission android:name="android.permission.VIBRATE">
