@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="set_inexact_repeating_alarm" >Set Inexact Repeating Alarm
+                </string>
+                <string name="cancel_repeating_alarm" >Cancel Repeating Alarm
+                </string>
+                <string name="set_repeating_alarm" >Set Repeating Alarm
+                </string>
+                <string name="set_single_alarm" >Set Single Alarm
+                </string>
+                <string name="app_name" >AlarmCreate
+                </string>
+                <string name="hello" >Hello World, AlarmCreateActivity!
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alarm_rooster"
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/raw/alarm_rooster.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab04/AlarmCreateActivity/app/src/debug/res" />
+    </dataSet>
+
+</merger>

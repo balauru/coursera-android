@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >NotificationStatusBarWithCustomView
+                </string>
+                <string name="hello" >Hello World, NotificationStatusBarWithCustomViewActivity!
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fire_eye_alien"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/drawable-hdpi/fire_eye_alien.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alarm_rooster"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/raw/alarm_rooster.mp3"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_notification"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/layout/custom_notification.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sub_activity"
+                path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/main/res/layout/sub_activity.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab04/NotificationStatusBarWithCustomView/app/src/debug/res" />
+    </dataSet>
+
+</merger>
