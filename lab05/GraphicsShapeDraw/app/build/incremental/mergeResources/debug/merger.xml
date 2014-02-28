@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >GraphicsShapeDraw
+                </string>
+                <string name="hello" >Hello World, ShapeDrawActivity!
+                </string>
+            </file>
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="image_width" >250dp
+                </dimen>
+                <dimen name="padding" >20dp
+                </dimen>
+                <dimen name="image_height" >250dp
+                </dimen>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/debug/res" />
+    </dataSet>
+
+</merger>

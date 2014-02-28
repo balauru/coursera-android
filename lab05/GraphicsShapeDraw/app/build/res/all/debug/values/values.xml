@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="image_height">250dp</dimen>
+    <dimen name="image_width">250dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/GraphicsShapeDraw/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GraphicsShapeDraw</string>
+    <string name="hello">Hello World, ShapeDrawActivity!</string>
+
+</resources>

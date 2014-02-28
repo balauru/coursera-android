@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">TouchGestureViewFlipper</string>
+    <string name="hello">Hello World, ViewFlipperTestActivity!</string>
+
+</resources>

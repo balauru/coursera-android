@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >GraphicsLab
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="b128"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/drawable-hdpi/b128.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="b64"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/drawable-hdpi/b64.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="bubble_pop"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/raw/bubble_pop.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsLab/app/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/GraphicsPaint/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GraphicsPaint</string>
+    <string name="hello">Hello World, GraphicsPaintActivity!</string>
+    <string name="long_text">This is a lot of Text. This is even more Text.</string>
+    <string name="text_literal">Text</string>
+
+</resources>

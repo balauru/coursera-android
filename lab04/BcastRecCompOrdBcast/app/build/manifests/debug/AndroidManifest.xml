@@ -1,0 +1,31 @@
+<!-- From: file:/home/calin/Projects/coursera-android/lab04/BcastRecCompOrdBcast/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="course.examples.BroadcastReceiver.CompoundOrderedBroadcast">
+
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="18"/>
+
+    <uses-permission android:name="android.permission.VIBRATE">
+    </uses-permission>
+
+    <application android:allowBackup="false" android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name="course.examples.BroadcastReceiver.CompoundOrderedBroadcast.CompoundOrderedBroadcast">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <receiver android:exported="false" android:name="course.examples.BroadcastReceiver.CompoundOrderedBroadcast.Receiver2">
+            <intent-filter android:priority="10">
+                <action android:name="course.examples.BroadcastReceiver.show_toast">
+                </action>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="false" android:name="course.examples.BroadcastReceiver.CompoundOrderedBroadcast.Receiver3">
+            <intent-filter android:priority="1">
+                <action android:name="course.examples.BroadcastReceiver.show_toast">
+                </action>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

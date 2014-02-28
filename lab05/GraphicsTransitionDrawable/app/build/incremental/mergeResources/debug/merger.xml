@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="fading_image_desc" >Fading Image
+                </string>
+                <string name="app_name" >GraphicsTransitionDraw
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="shape_transition"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable/shape_transition.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="cyan_shape"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable/cyan_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="magenta_shape"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/drawable/magenta_shape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab05/GraphicsTransitionDrawable/app/src/debug/res" />
+    </dataSet>
+
+</merger>

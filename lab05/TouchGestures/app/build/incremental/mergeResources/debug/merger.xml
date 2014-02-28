@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >TouchGesture
+                </string>
+                <string name="prompt" >Cast your spell
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/main/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="gestures"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/main/res/raw/gestures"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestures/app/src/debug/res" />
+    </dataSet>
+
+</merger>

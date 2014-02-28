@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res" >
+            <file
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >TouchGestureViewFlipper
+                </string>
+                <string name="hello" >Hello World, ViewFlipperTestActivity!
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="second"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/layout/second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="first"
+                path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/main/res/layout/first.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/build/res/rs/debug" />
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/calin/Projects/coursera-android/lab05/TouchGestureViewFlipperTest/app/src/debug/res" />
+    </dataSet>
+
+</merger>

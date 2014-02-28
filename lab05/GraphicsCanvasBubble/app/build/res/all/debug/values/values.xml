@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/GraphicsCanvasBubble/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="image_width">200dp</dimen>
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/GraphicsCanvasBubble/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GraphicsCanvasBubble</string>
+    <string name="bubble_desc">Bubble</string>
+
+</resources>

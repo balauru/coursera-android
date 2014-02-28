@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/calin/Projects/coursera-android/lab05/AudioVideoAudioManager/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">AudioVideoAudioManager</string>
+    <string name="down_string">Down</string>
+    <string name="hello">Hello World, AudioVideoAudioManagerActivity!</string>
+    <string name="play_string">Play</string>
+    <string name="up_string">Up</string>
+
+</resources>
